@@ -1,4 +1,4 @@
-# CleanAss
+# CleaningCoursera
 Assignment in Cleaning Data (Coursera)
 ---
 title: "README"
